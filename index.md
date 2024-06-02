@@ -8,7 +8,7 @@ If you have any questions, feedback, or need assistance with the app, please con
 ## Frequently Asked Questions (FAQ)
 
 **Q: How do I use iHearNow?**
-A: Click on Group Mode if you are with people who also have the app running. 
+A: Connect a headset. Click on Group Mode if you are with people who also have the app running. 
 Click on Solo Mode if you are the only one with the app and want to hear what others speak into your phone. 
 
 **Q: Why do I need a headset?**
