@@ -1,4 +1,3 @@
-# iHearNow Support
 
 Welcome to the support page for **iHearNow**!
 
