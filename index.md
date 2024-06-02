@@ -20,6 +20,9 @@ A: A headset with a cable makes sense in Group Mode. In Solo Mode, you will pass
 **Q: What headset should I buy?**
 A: The app was tested with the SoundPeats Q30 Bluetooth Headphones. If you want to use a headset with a cable, the standard Apple EarPods work well.
 
+**Q: What is the Built-In Mic option?**
+A: The iPhone has several microphones and can use them to filter out noise and only record audio from the front of the phone. In some situations or with certain headsets, this can give better results than the headset microphone. iHearNow uses the microphones at the top of the phone.
+
 **Q: Does the app have to be in the foreground?**
 A: Yes. The iPhone will will stop the app when it goes into the background. 
 
